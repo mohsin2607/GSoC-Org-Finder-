@@ -1,4 +1,4 @@
-const CACHE_NAME = 'gsoc-finder-20260517081157';
+const CACHE_NAME = 'gsoc-finder-20260907040720';
 
 // Basic caching for offline resilience
 self.addEventListener('install', (event) => {
